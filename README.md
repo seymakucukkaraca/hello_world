@@ -1,3 +1,3 @@
 # hello_world
-Kodlamaya ilk adım
-selam, hep birlikte kodlamayı ogrenecegiz.
+Kodlamaya ilk adım.
+Selam, hep birlikte kodlamayı ogrenecegiz.
